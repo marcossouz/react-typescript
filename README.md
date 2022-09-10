@@ -3,17 +3,17 @@
 Neste curso você irá desenvolver um Dashboard utilizando ReactJs e TypeScript. Você irá desenvolver um layout responsivo com Grid Layout e Flexbox. Nesse projeto, além de aprender a criar gráficos, também irá criar temas de cores e permitir o usuário a trocar o tema (dark e light). E também irá aprender a aplicar animações.
 
 
-- [ ] 1. Introdução
-    - [ ] 1.1 A aplicação que vamos desenvolver
-    - [ ] 1.2 Aquecendo os motores com TypeScript
-    - [ ] 1.3 Recado do projeto
-- [ ] 2. Preparando o seu ambiente de desenvolvimento
-    - [ ] 2.1 Instalação e configuração do ambiente de desenvolvimento com o React Js
-    - [ ] 2.2 O Rodrigo do futuro tem um recado para você sobre o próximo vídeo
-    - [ ] 2.3 Extensões e produtividade no seu Visual Studio Code
-    - [ ] 2.4 Instalando o Yarn. O gerenciador de pacotes queridinho dos devs.
+- [x] 1. Introdução
+    - [x] 1.1 A aplicação que vamos desenvolver
+    - [x] 1.2 Aquecendo os motores com TypeScript
+    - [x] 1.3 Recado do projeto
+- [x] 2. Preparando o seu ambiente de desenvolvimento
+    - [x] 2.1 Instalação e configuração do ambiente de desenvolvimento com o React Js
+    - [x] 2.2 O Rodrigo do futuro tem um recado para você sobre o próximo vídeo
+    - [x] 2.3 Extensões e produtividade no seu Visual Studio Code
+    - [x] 2.4 Instalando o Yarn. O gerenciador de pacotes queridinho dos devs.
 - [ ] 3. Desenvolvimento do layout do dashboard
-    - [ ] 3.1 Criando o projeto
+    - [x] 3.1 Criando o projeto
     - [ ] 3.2 Styled Components - Instalação e estilos globais
     - [ ] 3.3 Criação dos componentes do Layout da nossa aplicação
     - [ ] 3.4 Criando os temas de cores da aplicação
